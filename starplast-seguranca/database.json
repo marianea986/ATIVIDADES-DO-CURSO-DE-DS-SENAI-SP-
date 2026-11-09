@@ -1,0 +1,40 @@
+{
+    "funcionarios": [
+        {
+            "nome": "Mariane Carrier Antunes",
+            "cpf": "12548525638",
+            "nascimento": "19/05/2005",
+            "setor": "gerência",
+            "matricula": "12",
+            "foto_path": "fotos_cadastros\\foto_58fee457.jpg"
+        },
+        {
+            "nome": "João Pedro Oliveira Salvador",
+            "cpf": "41258963258",
+            "nascimento": "14/12/2003",
+            "setor": "Injestão plástica",
+            "matricula": "14",
+            "foto_path": "fotos_cadastros\\foto_3f0cfb95.jpg"
+        },
+        {
+            "nome": "Mariane Carrier Antunes",
+            "cpf": "125452132532",
+            "setor": "gerência",
+            "nascimento": "19/07/2005",
+            "matricula": "12",
+            "foto_path": "C:\\Users\\49277050802\\Documents\\starplast-seguranca\\fotos_cadastros\\func_125452132532_1791988147.jpg"
+        }
+    ],
+    "visitantes": [
+        {
+            "nome": "jurema da silva",
+            "cpf": "12585236528",
+            "motivo": "Conversar com a gestão",
+            "estacionamento": "Sim",
+            "cor": "preto",
+            "modelo": "tiggo",
+            "placa": "abc123",
+            "foto_path": ""
+        }
+    ]
+}
